@@ -16,7 +16,7 @@ OpenCV 4.4.0.44
 
 Dataset
 ----------------------------------
-
+The dataset used is DIV2K, and the validation set is Set5.
 
 
 Based on baseLFSR, LFSR can also be implemented by modifying its code to a single image
